@@ -1,0 +1,3 @@
+﻿Simple Grocery Store Application
+
+1. Customer can purchase items in inventory from merchant.
